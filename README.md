@@ -1,16 +1,11 @@
 # weather_v2
 
-A Flutter project.
+Абакумов Глеб Денисович КЭИ ИСДо-33
 
-## Getting Started
+Тестовое задание Mobile App Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Вторая и окончательная версия приложения "Погода", 
+выстраданная в ходе многочисленных попыток найти работающее бесплатное АПИ.
+В конце концов, получилось то, что получилось.
+Приложение показывает актуальную погоду на день и неделю в целом ряде известных городов мира.
+Для запуска рекомендуется использовать эмулятор Pixel 4 API 30
